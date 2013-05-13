@@ -1,1 +1,1 @@
-Well this is just a small test so fuck u life and Rawr
+Very beta of a Runescape Refactored client - Revision 15. 2007 servers.
